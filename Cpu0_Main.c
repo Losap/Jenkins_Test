@@ -65,5 +65,6 @@ void core0_main(void)
     while (1)
     {
         uint16 jenkins_test = 0;
+        uint16 jenkins_test1 = 0;
     }
 }
