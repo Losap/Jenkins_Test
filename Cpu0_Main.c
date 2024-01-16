@@ -66,5 +66,6 @@ void core0_main(void)
     {
         uint16 jenkins_test = 0;
         uint16 jenkins_test1 = 0;
+        uint16 jenkins_test21 = 0;
     }
 }
